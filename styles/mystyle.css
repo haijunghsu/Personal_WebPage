@@ -1,0 +1,44 @@
+.resumeheading{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.resumefont{
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.underline{
+    text-decoration: underline;
+}
+p{
+    color: white;
+}
+.box1{
+    padding: 5px;
+    border: dotted 5px blue;
+}
+.box2{
+    padding: 5px;
+    border: dashed 5px green;
+}
+.bold{
+    font-weight: bold;
+    font-size: 20px;
+}
+.masthead2{
+    display:table;
+    width:100%;
+    height:auto;
+    padding:200px 0;
+    text-align:center;
+    color:#fff;
+    background:url(../images/bg3.jpg) no-repeat bottom center scroll;
+    background-color:#000;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover
+}
+
