@@ -1,3 +1,13 @@
+.avatar {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.55);
+    vertical-align: middle;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    padding: 0.5rem;
+}
+
 .resumeheading{
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
